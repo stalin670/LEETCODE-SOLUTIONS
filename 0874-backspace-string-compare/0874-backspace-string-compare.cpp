@@ -1,41 +1,26 @@
 class Solution {
 public:
-    int Validindex(string str, int end) {
-        int backspace_count = 0;
-        while (end >= 0) {
-            if (str[end] == '#') {
-                backspace_count++;
-            } else if (backspace_count > 0) {
-                backspace_count--;
-            } else {
-                break;
-            }
-            end--;
-        }
-        return end;
-    }    
-
     bool backspaceCompare(string s, string t) {
-        int ss = s.length() - 1;
-        int tt = t.length() - 1;
-
-        while (ss >= 0 || tt >= 0) {
-            ss = Validindex(s, ss);
-            tt = Validindex(t, tt);
-
-            if (ss < 0 && tt < 0) {
-                return true;
+        stack<char> st1,st2;
+        for(auto it:s){
+            if(it=='#' and !st1.empty()){
+                st1.pop();
             }
-            if (ss < 0 || tt < 0) {
-                return false;
-            } else if (s[ss] != t[tt]) {
-                return false;
+            else if(it!='#'){
+                st1.push(it);
             }
-
-            ss--;
-            tt--;
         }
 
-        return true;
+        for(auto it:t){
+            if(it=='#' and !st2.empty()){
+                st2.pop();
+            }
+            else if(it!='#'){
+                st2.push(it);
+            }
+        }
+
+        if(st1==st2) return true;
+        return false;
     }
 };
