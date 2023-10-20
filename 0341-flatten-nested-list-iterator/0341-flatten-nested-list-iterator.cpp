@@ -17,32 +17,37 @@
  */
 
 class NestedIterator {
-private:
-    vector<int> flattened;
-    int current;
+    vector<int> ans;
+    int i=0;
 
-    void solve(const vector<NestedInteger>& nestedList) {
-        for (const auto& item : nestedList) {
-            if (item.isInteger()) {
-                flattened.push_back(item.getInteger());
-            } else {
-                solve(item.getList());
+public:
+    void func(vector<NestedInteger> &nestedList){
+        for(int i=0;i<nestedList.size();i++){
+            if(nestedList[i].isInteger()){
+                ans.push_back(nestedList[i].getInteger());
+            }
+            else{
+                func(nestedList[i].getList());
             }
         }
     }
 
-public:
     NestedIterator(vector<NestedInteger> &nestedList) {
-        solve(nestedList);
-        current = 0;
+        func(nestedList);
     }
     
     int next() {
-        return flattened[current++];
+        int val=-1;
+        if(i<ans.size()){
+            val=ans[i];
+            i++;
+        }
+        return val;
     }
     
     bool hasNext() {
-        return current < flattened.size();
+        if(i<ans.size()) return true;
+        return false;
     }
 };
 
