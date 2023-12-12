@@ -9,8 +9,7 @@ public:
     }
     
     int findDuplicate(vector<int>& nums) {
-        int n=size(nums);
-        int lo=1,hi=n-1;
+        int lo=1,hi=size(nums)-1;
         int ans;
         while(lo<=hi){
             int mid=lo+(hi-lo)/2;
