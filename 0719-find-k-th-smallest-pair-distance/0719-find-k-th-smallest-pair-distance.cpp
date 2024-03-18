@@ -18,7 +18,7 @@ public:
         
         ll n = nums.size();
         
-        ll lb = -1, rb = 1e6, ans;
+        ll lb = 0, rb = 1e6, ans;
         
         while(lb <= rb) {
             ll mb = lb + (rb - lb) / 2;
