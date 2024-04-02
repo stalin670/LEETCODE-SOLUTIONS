@@ -23,17 +23,11 @@ public:
                 ans += 2;
                 left = "";
                 last_brake = j - 1;
-                i++;
-                j--;
             }
-            else if(i == j || i + 1 == j) {
+            else if(i == j || i + 1 == j) 
                 ans++;
-                break;
-            }
-            else {
-                i++;
-                j--;
-            }
+            i++;
+            j--;
         }
         return ans;
     }
