@@ -25,8 +25,6 @@ public:
         ll m = board[0].size();
         for(ll i = 0; i < n; i++) {
             for(ll j = 0; j < m; j++) {
-                // cout << "found" << endl;
-                cout << i << ' ' << j << endl;
                 if(board[i][j] == word[0]) {
                     vector<vector<ll>> vis(n, vector<ll> (m, 0));
                     bool check = dfs(i, j, 0, board, word, vis, n, m);
