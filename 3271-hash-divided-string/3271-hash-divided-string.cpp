@@ -12,14 +12,12 @@ public:
         ll curr_len = 0;
         for(ll i = 0; i < n; i++) {
             temp_sum += (s[i] - 'a');
-            // cout << s[i] - 'a' << endl;
             curr_len++;
             if(k == curr_len) {
                 ans.push_back(mp[temp_sum % 26]);
                 temp_sum = 0;
                 curr_len = 0;
             }
-            // cout << temp_sum << " ";
         }
         
         return ans;
