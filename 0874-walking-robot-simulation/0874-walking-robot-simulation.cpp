@@ -61,14 +61,14 @@ public:
                 }
             }
             
-            cout << p.first << " " << p.second << endl;
+            // cout << p.first << " " << p.second << endl;
             ll max_dist = (abs(p.first) * abs(p.first));
             max_dist += (abs(p.second) * abs(p.second));
             
             max_ans = max(max_ans, max_dist);
         }
         
-        cout << p.first << " " << p.second << endl;
+        // cout << p.first << " " << p.second << endl;
         
         
         
