@@ -7,6 +7,7 @@ public:
         vector<int> prev_perm = arr;
         while(next_permutation(arr.begin(), arr.end())) {
             if(arr != prev_perm) {
+                // Check if prev permutation is equal to current or not.
                 prev_perm = arr;
                 ans.push_back(arr);
             }
