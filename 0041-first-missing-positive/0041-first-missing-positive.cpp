@@ -19,9 +19,8 @@ public:
         
         // Traverse the array and mark the current val as an index negative
         for(ll i = 0; i < n; i++) {
-            ll val = abs(arr[i]);
-            if(arr[val - 1] > 0) {
-                arr[val - 1] = -arr[val - 1];
+            if(arr[abs(arr[i]) - 1] > 0) {
+                arr[abs(arr[i]) - 1] = -arr[abs(arr[i]) - 1];
             }
         }
         
