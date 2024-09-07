@@ -24,11 +24,6 @@ public:
         return left_check and right_check;
     }
     bool isValidBST(TreeNode* root) {
-        if(root == NULL)
-            return true;
-        bool left_check = check(root -> left, LLONG_MIN, root -> val);
-        bool right_check = check(root -> right, root -> val, LLONG_MAX);
-        
-        return left_check and right_check;
+        return check(root, LLONG_MIN, LLONG_MAX);
     }
 };
