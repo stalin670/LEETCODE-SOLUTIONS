@@ -28,7 +28,7 @@ public:
         if(root == NULL)
             return false;
         
-        bool ok1 = false, ok2 = false;
+        bool ok1 = false;
         if(root -> val == node -> val) {
             node = node -> next;
         }
@@ -39,7 +39,7 @@ public:
             node = head;
         }
         ok1 = check(node, root -> left, head) | check(node, root -> right, head);
-        return ok1 | ok2;
+        return ok1;
     }
     
     bool isSubPath(ListNode* head, TreeNode* root) {
