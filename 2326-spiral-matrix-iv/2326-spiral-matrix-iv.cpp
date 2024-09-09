@@ -10,10 +10,10 @@
  */
 class Solution {
 public:
-    #define ll long long
+    // #define ll long long
     vector<vector<int>> spiralMatrix(int n, int m, ListNode* head) {
         vector<vector<int>> ans(n, vector<int>(m, - 1));
-        ll top = 0, bottom = n - 1, left = 0, right = m - 1;
+        int top = 0, bottom = n - 1, left = 0, right = m - 1;
  
         while (head != NULL) {
             if (left > right)
