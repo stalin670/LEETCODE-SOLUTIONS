@@ -18,6 +18,7 @@ public:
             return -1;
         };
         
+        // Creating Prefix Array for Vowels
         for(ll i = 0; i < n; i++) {
             for(ll j = 0; j < 5; j++) {
                 pref[i + 1][j] = pref[i][j];
@@ -27,6 +28,7 @@ public:
                 pref[i + 1][idx]++;
         }
         
+        // Getting Vowels between i and j
         auto getVowels = [&](ll i, ll j) {
             ll count = 0;
             for(ll id = 0; id < 5; id++) {
@@ -37,6 +39,7 @@ public:
             return count;
         };
         
+        // Getting Consonenets between i and j
         auto getConsonent = [&](ll i, ll j) {
             ll gap = j - i + 1;
             ll count = 0;
@@ -47,6 +50,7 @@ public:
             return gap - count;
         };
         
+        // Function to find the smallest index for allVowels and Cons >= k
         auto firstGreaterK = [&](ll st) {
             ll lb = st, rb = n - 1;
             ll possible = n;
@@ -65,6 +69,7 @@ public:
             return possible;
         };
         
+        // Function to find the greatest index for which consonents >= k
         auto lastGreaterK = [&](ll st) {
             ll lb = st, rb = n - 1;
             ll possible = lb - 1;
@@ -82,7 +87,9 @@ public:
             return possible;
         };
         
+        // Iterating all the string
         for(ll i = 0; i < n; i++) {
+            // Simple Binary search
             ll e1 = firstGreaterK(i);
             ll e2 = lastGreaterK(i);
             if(e1 <= e2)
