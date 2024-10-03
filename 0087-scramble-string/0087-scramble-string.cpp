@@ -14,6 +14,15 @@ public:
         }
         
         ll n = s.size();
+        vector<ll> freqS(26, 0), freqT(26, 0);
+        for(ll i = 0; i < n; i++) {
+            freqS[s[i] - 'a']++;
+            freqT[t[i] - 'a']++;
+        }
+        if(freqS != freqT) {
+            return dp[key] = false;
+        }
+        
         for(ll i = 1; i < n; i++) {
             if((helper_function(s.substr(0, i), t.substr(0, i)) and helper_function(s.substr(i), t.substr(i))) || 
                (helper_function(s.substr(0, i), t.substr(n - i)) and helper_function(s.substr(i), t.substr(0, n - i))))
