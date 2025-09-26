@@ -9,6 +9,7 @@
 | [0078-subsets](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,17 +34,21 @@
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 ## Sorting
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 ## Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
