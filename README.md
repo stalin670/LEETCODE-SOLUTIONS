@@ -10,6 +10,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
+| [0830-largest-triangle-area](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0830-largest-triangle-area) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,4 +52,12 @@
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
+## Math
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0830-largest-triangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
