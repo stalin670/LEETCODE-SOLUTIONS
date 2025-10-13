@@ -12,6 +12,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0830-largest-triangle-area](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0830-largest-triangle-area) |
 | [0943-sum-of-subarray-minimums](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0943-sum-of-subarray-minimums) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Backtracking
@@ -47,6 +48,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
@@ -76,4 +78,12 @@
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+## Hash Table
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## String
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
