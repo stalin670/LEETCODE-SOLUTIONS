@@ -15,6 +15,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Backtracking
 |  |
 | ------- |
