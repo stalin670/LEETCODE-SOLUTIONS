@@ -17,6 +17,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Backtracking
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
