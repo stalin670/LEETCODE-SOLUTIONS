@@ -14,6 +14,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0943-sum-of-subarray-minimums) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2169-simple-bank-system](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2169-simple-bank-system](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2169-simple-bank-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## String
 |  |
@@ -111,9 +113,14 @@
 ## Simulation
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2169-simple-bank-system) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
