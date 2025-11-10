@@ -24,6 +24,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0943-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0943-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +116,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
 | ------- |
