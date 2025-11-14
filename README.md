@@ -58,6 +58,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
@@ -126,6 +127,7 @@
 | [0474-ones-and-zeroes](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Enumeration
 |  |
 | ------- |
