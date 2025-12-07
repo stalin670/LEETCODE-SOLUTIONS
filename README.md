@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0830-largest-triangle-area) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2244-number-of-laser-beams-in-a-bank) |
