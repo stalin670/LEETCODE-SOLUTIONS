@@ -3,11 +3,11 @@ public:
     int countTriples(int n) {
         int ans = 0;
         for(int i = 1; i <= n; i++) {
-            for(int j = i + 1; j <= n; j++) {
-                for(int k = j + 1; k <= n; k++) {
-                    if(i * i + j * j == k * k)
-                        ans += 2;
-                }
+            for(int j = 1; j <= n; j++) {
+                if(i == j) continue;
+                int x = i * i + j * j;
+                int sq = sqrt(x);
+                if(x == sq * sq and sq <= n) ans++;
             }
         }
         return ans;
