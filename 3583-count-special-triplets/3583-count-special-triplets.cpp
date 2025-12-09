@@ -1,39 +1,104 @@
 class Solution {
 public:
-    #define ll long long
-    #define mod 1000000007
+
+
+#define ll long long
     int specialTriplets(vector<int>& a) {
-        /*  
-            3 <= n <= 1e5
-            0 <= ai <= 1e5
+        /*
+        3 <= n <= 1e5
+        0 <= ai <= 1e5
 
-            finding triplet such that
-            i < j < k
-            and 
-            ai = aj * 2
-            ak = aj * 2
+        a1, a2, a3..........an
 
-            first we'll count all the elements
-            and then count all element till index i
-            so that we can get all aj * 2 before i and after
-            i
+        i, j, k
+
+        i < j < k
+
+        ai = 2 * aj
+        ak = 2 * aj
+
+        brute force
+        O(n ^ 3)
+        O(1)
+
+        [8,4,2,8,4]
+
+        (8, [0, 3])
+        (4, [1, 4])
+        (2, [2])
+
+
+        ai, aj, ak
+        ai == ak == 2 * aj
+        i < j < k
+
+        a1, a2, a3..........an
+
+        8, 8, 4, 2, 3, 8, 9, 7
+        []    4  []
+
+        Hashmap2
+        key, value
+        8 , 1
+        4 , 0
+        2 , 1
+        3 , 1
+        9 , 1
+        7 , 1
+
+        Hashmap1
+        8 = 2
+
+        index = 2, value = 4 = 4 * 2 = 8
+        1st8, 2nd8, 4, 3rd8
+
+        1st8, 4, 3rd8
+        2nd8, 4, 3rd8
+
+
+        
+
         */
+    
+
+    // int ans = 0;
+    // for(int i = 0; i < n; i++) {
+    //     for(int j = i + 1; j < n; j++) {
+    //         for(int k = j + 1; k < n; k++) {
+    //             if(a[i] == a[j] * 2 and a[k] = a[j] * 2)
+    //                 ans++;
+    //         }
+    //     }
+    // }
+        int mod = 1000000007;
 
         ll ans = 0;
-        map<ll, ll> freq;
-        for(auto x : a) freq[x]++;
-
-        map<ll, ll> cur;
-        cur[a[0]]++;
-        for(ll i = 1; i < a.size() - 1; i++) {
-            ll need = a[i] * 2;
-            if(cur.find(need) != cur.end() and freq.find(need) != freq.end()) {
-                ll ways = (cur[need]) * (freq[need] - cur[need] - (a[i] == 0 ? 1 : 0));
-                ans = (ans + ways) % mod;
-                // cout << cur[need] << " " << freq[need] << endl;
-            }
-            cur[a[i]]++;
+        int n = a.size();
+        map<int, int> mp1, mp2;
+        for(int i = 0; i < n; i++) {
+            mp2[a[i]]++;
         }
+        
+        mp1[a[0]]++;
+        mp2[a[0]]--;
+        for(int i = 0; i < n; i++) {
+            if(i == 0) {
+                continue;
+            }
+
+            mp2[a[i]]--;
+
+
+            int need = a[i] * 2;
+
+            if(mp1.find(need) != mp1.end() && mp2.find(need) != mp2.end()) {
+                ans = (ans + ((ll)mp1[need] * (ll)mp2[need])) % mod;
+            }
+
+            mp1[a[i]]++;
+        }
+
         return ans;
+
     }
 };
