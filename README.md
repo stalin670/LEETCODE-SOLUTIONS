@@ -16,6 +16,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -98,6 +99,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2288-count-operations-to-obtain-zero) |
@@ -115,6 +117,7 @@
 | [0474-ones-and-zeroes](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0943-sum-of-subarray-minimums](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0943-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Prefix Sum
 |  |
 | ------- |
