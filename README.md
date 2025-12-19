@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
+| [0303-range-sum-query-immutable](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0474-ones-and-zeroes](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
@@ -121,6 +122,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -155,6 +157,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [2169-simple-bank-system](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2169-simple-bank-system) |
 ## Counting
 |  |
