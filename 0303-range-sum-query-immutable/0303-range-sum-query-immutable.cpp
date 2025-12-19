@@ -1,11 +1,10 @@
 class NumArray {
 public:
-vector<int> pref;
+int pref[100000];
     NumArray(vector<int>& nums) {
-        int prefsum = 0;
-        for(int i = 0; i < nums.size(); i++) {
-            prefsum += nums[i];
-            pref.push_back(prefsum);
+        pref[0] = nums[0];
+        for(int i = 1; i < nums.size(); i++) {
+            pref[i] = pref[i - 1] + nums[i];
         }
     }
     
