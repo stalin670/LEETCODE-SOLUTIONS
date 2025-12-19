@@ -11,6 +11,7 @@
 | [0474-ones-and-zeroes](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [0724-find-pivot-index](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0830-largest-triangle-area](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0830-largest-triangle-area) |
 | [0943-sum-of-subarray-minimums](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0943-sum-of-subarray-minimums) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3616-make-array-elements-equal-to-zero) |
