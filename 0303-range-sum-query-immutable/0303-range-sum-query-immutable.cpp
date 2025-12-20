@@ -3,7 +3,7 @@ public:
 int pref[100000];
     NumArray(vector<int>& nums) {
         pref[0] = nums[0];
-        for(int i = 1; i < nums.size(); i++) {
+        for(int i = 1; i< nums.size(); i++) {
             pref[i] = pref[i - 1] + nums[i];
         }
     }
