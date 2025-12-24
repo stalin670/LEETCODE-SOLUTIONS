@@ -34,6 +34,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
@@ -143,6 +144,7 @@
 | [3531-count-covered-buildings](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3583-count-special-triplets) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
