@@ -35,6 +35,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
@@ -71,6 +72,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
@@ -83,6 +85,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Stack
 |  |
 | ------- |
@@ -181,4 +184,8 @@
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 <!---LeetCode Topics End-->
