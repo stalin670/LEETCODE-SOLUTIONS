@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0303-range-sum-query-immutable](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0474-ones-and-zeroes](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0474-ones-and-zeroes) |
@@ -106,6 +107,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0830-largest-triangle-area](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0840-magic-squares-in-grid) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
