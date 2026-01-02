@@ -18,6 +18,7 @@
 | [0840-magic-squares-in-grid](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0840-magic-squares-in-grid) |
 | [0943-sum-of-subarray-minimums](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2169-simple-bank-system](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
