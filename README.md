@@ -20,6 +20,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -114,6 +115,7 @@
 | [0066-plus-one](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0830-largest-triangle-area](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1925-count-square-sum-triples) |
