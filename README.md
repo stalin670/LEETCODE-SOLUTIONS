@@ -52,6 +52,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0830-largest-triangle-area](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
@@ -164,6 +166,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -173,6 +176,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [2169-simple-bank-system](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2288-count-operations-to-obtain-zero) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3616-make-array-elements-equal-to-zero) |
