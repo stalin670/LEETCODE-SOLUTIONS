@@ -55,6 +55,7 @@
 | [0067-add-binary](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0868-binary-gap) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
