@@ -20,6 +20,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -56,6 +57,7 @@
 | [0078-subsets](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -90,6 +92,7 @@
 | [0611-valid-triangle-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3074-apple-redistribution-into-boxes](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -196,6 +199,7 @@
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3583-count-special-triplets) |
