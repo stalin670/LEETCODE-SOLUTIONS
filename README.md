@@ -58,6 +58,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@
 | [0840-magic-squares-in-grid](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0067-add-binary) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2169-simple-bank-system](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2288-count-operations-to-obtain-zero) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3616-make-array-elements-equal-to-zero) |
