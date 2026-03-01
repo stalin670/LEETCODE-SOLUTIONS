@@ -79,6 +79,7 @@
 | [0611-valid-triangle-number](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0780-max-chunks-to-make-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -179,6 +180,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/stalin670/LEETCODE-SOLUTIONS/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Simulation
