@@ -1,19 +1,22 @@
 class Solution {
 public:
     int numSpecial(vector<vector<int>>& mat) {
-        int ans=0;
-        for(int i=0;i<size(mat);i++){
-            for(int j=0;j<size(mat[i]);j++){
-                if(mat[i][j]==1){
-                    int cnt=1;
-                    for(int k=0;k<size(mat);k++){
-                        if(mat[k][j]==1 and i!=k) cnt++;
-                    }
-                    for(int k=0;k<size(mat[i]);k++){
-                        if(mat[i][k]==1 and j!=k) cnt++;
-                    }
-                    if(cnt==1) ans++;
-                }
+        int ans = 0, n = mat.size(), m = mat[0].size();
+        int row[n];
+        int col[m];
+        for(int i = 0; i < n; i++) {
+            row[i] = count(mat[i].begin(), mat[i].end(), 1);
+        }
+        for(int i = 0; i < m; i++) {
+            int cnt = 0;
+            for(int j = 0; j < n; j++) {
+                cnt += mat[j][i];
+            }
+            col[i] = cnt;
+        }
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if(mat[i][j] == 1 and row[i] == 1 and col[j] == 1) ans++;
             }
         }
         return ans;
